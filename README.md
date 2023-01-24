@@ -1,5 +1,7 @@
 md-writer
 =========
+[![CI Status][CI BADGE]][CI PAGE]
+
 A collection of utilities to help make writing Markdown easier.
 
 Usage
@@ -103,3 +105,6 @@ assert_eq!(h6, format!("###### {text}"));
 License
 -------
 The MIT License. See the [license file](LICENSE) for details.
+
+[CI BADGE]: https://github.com/jbenner-radham/md-writer-rs/actions/workflows/ci.yaml/badge.svg
+[CI PAGE]: https://github.com/jbenner-radham/md-writer-rs/actions/workflows/ci.yaml
