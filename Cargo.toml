@@ -1,0 +1,13 @@
+[package]
+name = "md-writer"
+version = "0.1.0"
+description = "A collection of utilities to help make writing Markdown easier."
+authors = ["James Benner <james.benner@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/jbenner-radham/md-writer-rs"
+homepage = "https://github.com/jbenner-radham/md-writer-rs"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
